@@ -189,7 +189,7 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
 
 -- copy
-curl -sSL https://gitlab.com/vpnfq/CFwarp/raw/main/point/CFcdnym_202409.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
 
 
 ```
@@ -199,7 +199,7 @@ curl -sSL https://gitlab.com/vpnfq/CFwarp/raw/main/point/CFcdnym_202409.sh -o CF
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 
 -- copy
-curl -sSL https://gitlab.com/vpnfq/CFwarp/raw/main/point/cfip_202409.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 
 ```
 
