@@ -190,7 +190,7 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.
 ```
 -- copy
 ```
-curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
 
 
 ```
@@ -201,7 +201,7 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && 
 ```
 -- copy
 ```
-curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 
 ```
 
