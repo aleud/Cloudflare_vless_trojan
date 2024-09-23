@@ -187,8 +187,9 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 ### CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
-
+```
 -- copy
+```
 curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
 
 
@@ -197,8 +198,9 @@ curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/CFc
 ### CF-优选官方IP+反代IP二合一脚本，苹果安卓手机平板专用：
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
-
+```
 -- copy
+```
 curl -sSL https://gitlab.com/source_copy/c-fwarp-copy-2409/-/tree/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 
 ```
