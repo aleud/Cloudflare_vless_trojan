@@ -194,7 +194,7 @@ curl -sSL https://gitlab.com/pubyokztx/c-fwarp-c/raw/main/point/CFcdnym.sh -o CF
 ```
 -- 后续允许直接在当前目录执行脚步，无需重复下载脚步文件
 ```
-curl -sSL CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+ bash ./CFcdnym.sh
 ```
 ------------------------------------------------------------------------
 ### CF-优选官方IP+反代IP二合一脚本，苹果安卓手机平板专用：
@@ -207,7 +207,7 @@ curl -sSL https://gitlab.com/pubyokztx/c-fwarp-c/raw/main/point/cfip.sh -o cfip.
 ```
 -- 后续允许直接在当前目录执行脚步，无需重复下载脚步文件
 ```
-curl -sSL cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+bash ./cfip.sh
 ```
 -------------------------------------------------------------
 
