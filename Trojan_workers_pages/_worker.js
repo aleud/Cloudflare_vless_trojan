@@ -2,7 +2,7 @@
 import { connect } from "cloudflare:sockets";
  
 let Pswd = "tj-10ea1d97-7179-47f7-825f-7657e0bb2zzg";
-const proxyIPs = []; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
+const proxyIPs = ["bestproxy.onecf.eu.org"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
 let cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
